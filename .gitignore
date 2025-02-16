@@ -3,3 +3,4 @@
 */lib
 */obj
 post-build.ps1
+/.vs
