@@ -7,6 +7,9 @@ This project contains multiple BepInEx mods for the **Airborne Kingdom** game.
 
 > Your speed gauge is now a fan.
 
+![speed](https://github.com/user-attachments/assets/577b0ba8-d8b9-432c-8c5b-bfc2dc680edc)
+
+
 Boost your city's movement speed to lightning levels. The city's current speed is multiplied by `50` times and acceleration by `10` times.
 
 
